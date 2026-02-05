@@ -1,0 +1,14 @@
+# virtual env
+.venv/
+.venv311/
+
+# pycharm
+.idea/
+
+# python cache
+__pycache__/
+*.pyc
+
+# training artifacts
+checkpoints/
+*.zip
